@@ -1,8 +1,8 @@
 ## Oi! Eu sou Pedro Henrick
  <div>
   <a href="https://github.com/pedrohenrick777">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrohenrick777&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrick777&layout=compact&langs_count=16"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrohenrick777&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrick777&layout=compact&langs_count=16"/>
 </div>
   
   ##
