@@ -1,10 +1,18 @@
 ## Oi! Eu sou Pedro Henrick
+
+- Atualmente trabalho como desenvolvedor Full stack Jr
+- Sou apaixonado por programação (principalmente back-end e área de segurança kkk)
+
+##
+
 <div>
   <a href="https://github.com/pedrohenrick777">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrohenrick777&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrick777&theme=dark&layout=compact&langs_count=16"/>
 </div>
  
+  ##
+  
 <div>
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
