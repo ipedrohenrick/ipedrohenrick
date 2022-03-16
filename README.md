@@ -1,30 +1,17 @@
-## Oi! Eu sou Pedro Henrick
+<h1>Oi! <img height="30em" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>  Eu sou Pedro Henrick</h1>
 
-- Atualmente trabalho como desenvolvedor Full stack Jr
-- Sou apaixonado por programação (principalmente back-end e área de segurança kkk)
-
-##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+python+jr)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/pedrohenrick777">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrohenrick777&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrick777&theme=dark&layout=compact&langs_count=16"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrohenrick777&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrick777&theme=material-palenight&layout=compact&langs_count=16"/>
 </div>
  
-  ##
+## Tecnologias
+![My Skills](https://skillicons.dev/icons?i=python,js,html,css,bootstrap,jquery,postgres,docker)
   
-<div>
- <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
- <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
- <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
- <img align="center" alt="django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-</div>
-  
-  ##
+## Redes Sociais
  
 <div> 
   <a href="https://instagram.com/_henriq4k" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
