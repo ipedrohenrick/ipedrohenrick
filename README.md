@@ -1,6 +1,6 @@
 <h1>Oi! <img height="30em" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>  Eu sou Pedro Henrick</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+python+jr)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Web)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/pedrohenrick777">
@@ -9,7 +9,7 @@
 </div>
  
 ## Tecnologias
-![My Skills](https://skillicons.dev/icons?i=python,js,html,css,bootstrap,jquery,postgres,docker)
+![My Skills](https://skillicons.dev/icons?i=vuejs,python,js,html,css,django,flask,postgres,docker)
   
 ## Redes Sociais
  
