@@ -1,6 +1,7 @@
 <samp>
 <h1>
     Hi! I'm Ph
+    <img src="giphy.gif" width="30">
 </h1>
 <p>About me:</p>
 <ul>
