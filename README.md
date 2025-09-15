@@ -4,8 +4,8 @@
 </h1>
 <p>About me:</p>
 <ul>
-    <li>I'm Full Stack Developer</li>
-    <li>Python| Django| Flask| Vuejs| Linux</li>
+    <li>Dev Full Stack com experiência em práticas DevOps</li>
+    <li>Python| Vuejs| Linux| Docker</li>
 </ul>
 <a target="_blank" href="https://www.linkedin.com/in/ipedrohenrick">
 LINKEDIN
